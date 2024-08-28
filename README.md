@@ -1,5 +1,14 @@
 # Scrum-ohje-SCRUM-ritarit-
 
+## Työjonot
+Projektissamme hoidamme työjonoja käyttäen alustaa esimerkiksi Microsoftin Planneria tai muuta vastaavaa, jonka avulla voimme lisätä ja seurata tehtävien tilaa.
+
+Microsoft Plannerin avulla voimme:
+
+- Luoda ja hallita tehtäviä
+- Seurata editymistä
+- Kommentoida toistemme työtä
+
 ## Kokoukset
 Järjestämme kokoukset vähintään kerran viikossa luentojen yhteydessä.
 Kokouksissa käsittelemme edellisen sprintin tulokset ja suunnittelemme seuraavan sprintin.
