@@ -1,4 +1,4 @@
-# Scrum-ohje-SCRUM-ritarit-
+# Scrum-ohje: SCRUM-ritarit
 
 ## Työjonot
 Scrumissa työjonot (tai backlogit) ovat tapa, jolla hoidetaan projektin hallintaa. __Product backlogilla__ tarkoitetaan työjonoa, joka sisältää tunnistetut tehtävät tuotteen kehittämistä varten. __Sprint backlog__ on puolestaan product backlogia tiiviimpii, ja sisältää vain osan tehtävistä. Sprint backlogin tehtävien tarkoituksena on tulla valmiiksi sprintin aikana. 
