@@ -35,6 +35,18 @@ Scrum on ketterä projektinhallintamenetelmä, joka perustuu nopeaan kehitykseen
 
 Scrum tukee nopeita muutoksia, tiimin yhteistyötä ja jatkuvaa parantamista.
 
+## Roolit
+
+### Tuoteomistaja
+Tuoteomistaja (product owner) vastaa tuotejonon hallinnasta ja siitä, että tiimi keskittyy oikeisiin asioihin. Hän priorisoi tehtäviä tuotejonossa liiketoiminnallisen hyödyn perusteella. Hän edustaa projektissa eri sidosryhmiä.
+
+### Scrum Master
+Scrum Master vastaa prosessien sujuvuudesta ja siitä, että scrumin periaatteita noudatetaan. Hän johtaa tiimiä itseohjautuvuuteen ja varmistaa mahdollisten esteiden poistamisen.
+
+### Kehittäjät
+Kehittäjät toteuttavat sprinttien aikana toteutettaviksi valitut tehtävät. He ovat usein ns. moniosaajia ja vastaavat sprintin kehitysjonosta ja laadun toteutumisesta jokaisessa sprintissä.
+
 ## Scrum-toimivuus
 Scrum toimii, koska se yhdistää tiimien yhteistyön, asiakaslähtöisyyden ja joustavuuden. Säännölliset palautteet ja lyhyet kehitysjaksot mahdollistavat nopean reagoinnin muuttuviin tarpeisiin.
 Tiimien itseohjautuvuus ja jatkuva parantaminen auttavat saavuttamaan korkealaatuisia tuloksia ja lisäämään asiakastyytyväisyyttä.
+
