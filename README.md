@@ -34,3 +34,7 @@ Scrum on ketterä projektinhallintamenetelmä, joka perustuu nopeaan kehitykseen
     - Kun sprintti on valmis, seuraava sprintti alkaa.
 
 Scrum tukee nopeita muutoksia, tiimin yhteistyötä ja jatkuvaa parantamista.
+
+## Scrum-toimivuus
+Scrum toimii, koska se yhdistää tiimien yhteistyön, asiakaslähtöisyyden ja joustavuuden. Säännölliset palautteet ja lyhyet kehitysjaksot mahdollistavat nopean reagoinnin muuttuviin tarpeisiin.
+Tiimien itseohjautuvuus ja jatkuva parantaminen auttavat saavuttamaan korkealaatuisia tuloksia ja lisäämään asiakastyytyväisyyttä.
