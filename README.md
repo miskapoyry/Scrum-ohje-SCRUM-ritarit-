@@ -35,7 +35,6 @@ Scrum on ketterä projektinhallintamenetelmä, joka perustuu nopeaan kehitykseen
 
 Scrum tukee nopeita muutoksia, tiimin yhteistyötä ja jatkuvaa parantamista.
 
-<<<<<<< HEAD
 ## Roolit
 
 ### Tuoteomistaja
@@ -51,6 +50,4 @@ Kehittäjät toteuttavat sprinttien aikana toteutettaviksi valitut tehtävät. H
 Scrum toimii, koska se yhdistää tiimien yhteistyön, asiakaslähtöisyyden ja joustavuuden. Säännölliset palautteet ja lyhyet kehitysjaksot mahdollistavat nopean reagoinnin muuttuviin tarpeisiin.
 Tiimien itseohjautuvuus ja jatkuva parantaminen auttavat saavuttamaan korkealaatuisia tuloksia ja lisäämään asiakastyytyväisyyttä.
 
-=======
 ## Miksi Scrum toimii?
->>>>>>> feature/miksi-scrum-roosa
