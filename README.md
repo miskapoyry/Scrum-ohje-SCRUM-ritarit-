@@ -1,13 +1,15 @@
 # Scrum-ohje-SCRUM-ritarit-
 
 ## Työjonot
-Projektissamme hoidamme työjonoja käyttäen alustaa esimerkiksi Microsoftin Planneria tai muuta vastaavaa, jonka avulla voimme lisätä ja seurata tehtävien tilaa.
+Scrumissa työjonot (tai backlogit) ovat tapa, jolla hoidetaan projektin hallintaa. __Product backlogilla__ tarkoitetaan työjonoa, joka sisältää tunnistetut tehtävät tuotteen kehittämistä varten. __Sprint backlog__ on puolestaan product backlogia tiiviimpii, ja sisältää vain osan tehtävistä. Sprint backlogin tehtävien tarkoituksena on tulla valmiiksi sprintin aikana. 
 
-Microsoft Plannerin avulla voimme:
+Tässä on muutamia työjonojen mahdollistavia piirteitä:
 
-- Luoda ja hallita tehtäviä
-- Seurata editymistä
-- Kommentoida toistemme työtä
+* mahdollistavat iteratiivisen käsittelyn
+* voi lisätä joustavasti lisää tehtäviä, niiden tullessa vastaan
+* helpottavat tehtävien priorisointia
+* helpottaa edistymisen tarkastelemista
+* mahdollistaa laajojen ja abstraktien toimien pilkkomisen ymmärrettäviin ja pieniin osiin
 
 ## Kokoukset
 Järjestämme kokoukset vähintään kerran viikossa luentojen yhteydessä.
