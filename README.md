@@ -23,3 +23,9 @@ Scrum on ketterä projektinhallintamenetelmä, joka perustuu nopeaan kehitykseen
 
 5. **Sykli toistuu**
     - Kun sprintti on valmis, seuraava sprintti alkaa.
+
+## Daily Scrum: tiimiläiset jokainen kertovat vuorollaan (kesto n. 15min)
+
+1. Mitä saavuttanut edellisen dailyn jälkeen
+2. Mitä aikoo saavuttaa ennen seuraavaa dailya
+3. Mitä mahdollisia esteitä tavoitteelle on
