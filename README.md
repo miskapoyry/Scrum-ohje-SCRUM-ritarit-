@@ -52,4 +52,7 @@ Kehittäjät toteuttavat sprinttien aikana toteutettaviksi valitut tehtävät. H
 Scrum toimii, koska se yhdistää tiimien yhteistyön, asiakaslähtöisyyden ja joustavuuden. Säännölliset palautteet ja lyhyet kehitysjaksot mahdollistavat nopean reagoinnin muuttuviin tarpeisiin.
 Tiimien itseohjautuvuus ja jatkuva parantaminen auttavat saavuttamaan korkealaatuisia tuloksia ja lisäämään asiakastyytyväisyyttä.
 
-## Miksi Scrum toimii?
+## Muistettavaa
+
+Scrum ei kuitenkaan ole universaali ratkaisu, ja sen soveltuvuus riippuu projektin luonteesta, tiimin kokemuksesta ja organisaation kulttuurista. On tärkeää arvioida huolellisesti, miten Scrum voi parhaiten palvella juuri teidän ryhmänne tarpeita.
+
