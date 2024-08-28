@@ -48,6 +48,9 @@ Scrum Master vastaa prosessien sujuvuudesta ja siitä, että scrumin periaatteit
 ### Kehittäjät
 Kehittäjät toteuttavat sprinttien aikana toteutettaviksi valitut tehtävät. He ovat usein ns. moniosaajia ja vastaavat sprintin kehitysjonosta ja laadun toteutumisesta jokaisessa sprintissä.
 
+### Sidosryhmät
+Erilaiset ulkoiset toimijat, kuten loppukäyttäjät, hankehallinto tai muut Scrum-tiimit.
+
 ## Scrum-toimivuus
 Scrum toimii, koska se yhdistää tiimien yhteistyön, asiakaslähtöisyyden ja joustavuuden. Säännölliset palautteet ja lyhyet kehitysjaksot mahdollistavat nopean reagoinnin muuttuviin tarpeisiin.
 Tiimien itseohjautuvuus ja jatkuva parantaminen auttavat saavuttamaan korkealaatuisia tuloksia ja lisäämään asiakastyytyväisyyttä.
