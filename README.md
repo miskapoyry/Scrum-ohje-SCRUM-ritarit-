@@ -35,4 +35,7 @@ Scrum on ketterä projektinhallintamenetelmä, joka perustuu nopeaan kehitykseen
 
 Scrum tukee nopeita muutoksia, tiimin yhteistyötä ja jatkuvaa parantamista.
 
-## Miksi Scrum toimii?
+## Muistettavaa
+
+Scrum ei kuitenkaan ole universaali ratkaisu, ja sen soveltuvuus riippuu projektin luonteesta, tiimin kokemuksesta ja organisaation kulttuurista. On tärkeää arvioida huolellisesti, miten Scrum voi parhaiten palvella juuri teidän ryhmänne tarpeita.
+
