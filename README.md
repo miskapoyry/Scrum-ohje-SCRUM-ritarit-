@@ -11,9 +11,10 @@ Microsoft Plannerin avulla voimme:
 
 ## Kokoukset
 Järjestämme kokoukset vähintään kerran viikossa luentojen yhteydessä.
-Kokouksissa käsittelemme edellisen sprintin tulokset ja suunnittelemme seuraavan sprintin.
+Kokouksissa katselmoimme edellisen sprintin tulokset sekä mahdolliset ilmenneet ongelmat (retrospektiivi) ja suunnittelemme seuraavan sprintin aikana toteutettavat tehtävät.
+Tavoitteena on jatkuva prosessien ja tiimin työskentelyn parantaminen.
 
-### Scrum-syklin yleiskuvaus
+## Scrum-syklin yleiskuvaus
 
 Scrum on ketterä projektinhallintamenetelmä, joka perustuu nopeaan kehitykseen ja jatkuvaan parantamiseen. Scrum-sykli (tai "sprintti") koostuu seuraavista vaiheista:
 
@@ -46,8 +47,6 @@ Scrum Master vastaa prosessien sujuvuudesta ja siitä, että scrumin periaatteit
 ### Kehittäjät
 Kehittäjät toteuttavat sprinttien aikana toteutettaviksi valitut tehtävät. He ovat usein ns. moniosaajia ja vastaavat sprintin kehitysjonosta ja laadun toteutumisesta jokaisessa sprintissä.
 
-## Scrum-toimivuus
+## Miksi Scrum toimii?
 Scrum toimii, koska se yhdistää tiimien yhteistyön, asiakaslähtöisyyden ja joustavuuden. Säännölliset palautteet ja lyhyet kehitysjaksot mahdollistavat nopean reagoinnin muuttuviin tarpeisiin.
 Tiimien itseohjautuvuus ja jatkuva parantaminen auttavat saavuttamaan korkealaatuisia tuloksia ja lisäämään asiakastyytyväisyyttä.
-
-## Miksi Scrum toimii?
