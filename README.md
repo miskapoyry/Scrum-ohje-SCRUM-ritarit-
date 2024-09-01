@@ -23,10 +23,10 @@ Scrum on ketterä projektinhallintamenetelmä, joka perustuu nopeaan kehitykseen
 
 2. **Sprintin suorittaminen**
     - Tiimi työskentelee valittujen tehtävien parissa.
-    - Päivittäiset Scrum-palaverit (Daily Scrum) pitävät tiimin synkronoituna ja läpinäkyvyyden korkealla.
+    - Päivittäiset Scrum-palaverit (Daily Scrum) pitävät tiimin synkronoituna ja läpinäkyvyyden korkealla (ryhmämme ei taida ehtiä palaveeraamaan näin usein, joten viikoittain riittänee tällä kurssilla).
 
 3. **Sprintin lopetus**
-    - Sprintin tarkastelupalaveri (Sprint Review) arvioi sprintin tulokset ja saa palautetta sidosryhmiltä.
+    - Sprintin tarkastelupalaveri (Sprint Review) arvioi sprintin tulokset.
 
 4. **Sprintin retrospektiivi**
     - Tiimi arvioi, mikä meni hyvin ja mitä voidaan parantaa seuraavissa sprinteissä.
