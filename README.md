@@ -6,13 +6,13 @@ Projektissamme hoidamme työjonoja käyttäen alustaa esimerkiksi Microsoftin Pl
 Microsoft Plannerin avulla voimme:
 
 - Luoda ja hallita tehtäviä
-- Seurata editymistä
+- Seurata edistymistä
 - Kommentoida toistemme työtä
 
 ## Kokoukset
 Järjestämme kokoukset vähintään kerran viikossa luentojen yhteydessä.
-Kokouksissa katselmoimme edellisen sprintin tulokset sekä mahdolliset ilmenneet ongelmat (retrospektiivi) ja suunnittelemme seuraavan sprintin aikana toteutettavat tehtävät.
-Tavoitteena on jatkuva prosessien ja tiimin työskentelyn parantaminen.
+Kokouksissa katselmoimme edellisen sprintin tulokset sekä mahdolliset ilmenneet ongelmat (retrospektiivi) ja suunnittelemme seuraavan sprintin aikana toteutettavat tehtävät. Suunnittelupalaverissa luomme sprintin kehitysjonon.
+Tarkistamme kehitysjonon järjestystä ja sisältöä jokaisen sprintin yhteydessä. Tavoitteena on jatkuva prosessien ja tiimin työskentelyn parantaminen. 
 
 ## Scrum-syklin yleiskuvaus
 
