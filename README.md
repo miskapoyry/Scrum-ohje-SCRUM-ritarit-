@@ -22,8 +22,7 @@ Scrum on ketterä projektinhallintamenetelmä, joka perustuu nopeaan kehitykseen
 
 1. **Sprintin suunnittelu**
     - Sprintin suunnittelu vastaa seuraaviin kysymyksiin
-    > Mitä on mahdollista toteuttaa alkavassa spritissä?
-    > Miten valittu työ toteutetaan
+        > Mitä on mahdollista toteuttaa alkavassa spritissä ja Miten valittu työ toteutetaan?
     - Tiimi valitsee tehtävät tuotteen jonosta (Product Backlog) ja luo sprintin jonon (Sprint Backlog).
 
 2. **Sprintin suorittaminen**
