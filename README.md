@@ -13,9 +13,10 @@ Tässä on muutamia työjonojen mahdollistavia piirteitä:
 
 ## Kokoukset
 Järjestämme kokoukset vähintään kerran viikossa luentojen yhteydessä.
-Kokouksissa käsittelemme edellisen sprintin tulokset ja suunnittelemme seuraavan sprintin.
+Kokouksissa katselmoimme edellisen sprintin tulokset sekä mahdolliset ilmenneet ongelmat (retrospektiivi) ja suunnittelemme seuraavan sprintin aikana toteutettavat tehtävät. Suunnittelupalaverissa luomme sprintin kehitysjonon.
+Tarkistamme kehitysjonon järjestystä ja sisältöä jokaisen sprintin yhteydessä. Tavoitteena on jatkuva prosessien ja tiimin työskentelyn parantaminen. 
 
-### Scrum-syklin yleiskuvaus
+## Scrum-syklin yleiskuvaus
 
 Scrum on ketterä projektinhallintamenetelmä, joka perustuu nopeaan kehitykseen ja jatkuvaan parantamiseen. Scrum-sykli (tai "sprintti") koostuu seuraavista vaiheista:
 
@@ -24,10 +25,11 @@ Scrum on ketterä projektinhallintamenetelmä, joka perustuu nopeaan kehitykseen
 
 2. **Sprintin suorittaminen**
     - Tiimi työskentelee valittujen tehtävien parissa.
-    - Päivittäiset Scrum-palaverit (Daily Scrum) pitävät tiimin synkronoituna ja läpinäkyvyyden korkealla.
+    - Päivittäiset Scrum-palaverit (Daily Scrum) pitävät tiimin synkronoituna ja läpinäkyvyyden korkealla (ryhmämme ei taida ehtiä palaveeraamaan näin usein, joten viikoittain riittänee tällä kurssilla).
 
 3. **Sprintin lopetus**
-    - Sprintin tarkastelupalaveri (Sprint Review) arvioi sprintin tulokset ja saa palautetta sidosryhmiltä.
+    - Sprintin tarkastelupalaveri (Sprint Review) arvioi sprintin tulokset.
+    - Demotaan projektin ulkopuolisille sidosryhmille, kuten loppukäyttäjille mitä on saatu aikaan
 
 4. **Sprintin retrospektiivi**
     - Tiimi arvioi, mikä meni hyvin ja mitä voidaan parantaa seuraavissa sprinteissä.
