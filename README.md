@@ -21,6 +21,9 @@ Tarkistamme kehitysjonon järjestystä ja sisältöä jokaisen sprintin yhteydes
 Scrum on ketterä projektinhallintamenetelmä, joka perustuu nopeaan kehitykseen ja jatkuvaan parantamiseen, sprintin kesto on 2-3 viikkoa. Scrum-sykli (tai "sprintti") koostuu seuraavista vaiheista:
 
 1. **Sprintin suunnittelu**
+    - Sprintin suunnittelu vastaa seuraaviin kysymyksiin
+    > Mitä on mahdollista toteuttaa alkavassa spritissä?
+    > Miten valittu työ toteutetaan
     - Tiimi valitsee tehtävät tuotteen jonosta (Product Backlog) ja luo sprintin jonon (Sprint Backlog).
 
 2. **Sprintin suorittaminen**
