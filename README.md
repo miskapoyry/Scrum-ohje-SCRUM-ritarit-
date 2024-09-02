@@ -27,6 +27,7 @@ Scrum on ketterä projektinhallintamenetelmä, joka perustuu nopeaan kehitykseen
 
 3. **Sprintin lopetus**
     - Sprintin tarkastelupalaveri (Sprint Review) arvioi sprintin tulokset.
+    - Demotaan projektin ulkopuolisille sidosryhmille, kuten loppukäyttäjille mitä on saatu aikaan
 
 4. **Sprintin retrospektiivi**
     - Tiimi arvioi, mikä meni hyvin ja mitä voidaan parantaa seuraavissa sprinteissä.
