@@ -5,11 +5,11 @@ Scrumissa työjonot (tai backlogit) ovat tapa, jolla hoidetaan projektin hallint
 
 Tässä on muutamia työjonojen mahdollistavia piirteitä:
 
-* mahdollistavat iteratiivisen käsittelyn
-* voi lisätä joustavasti lisää tehtäviä, niiden tullessa vastaan
-* helpottavat tehtävien priorisointia
-* helpottaa edistymisen tarkastelemista
-* mahdollistaa laajojen ja abstraktien toimien pilkkomisen ymmärrettäviin ja pieniin osiin
+* Mahdollistavat iteratiivisen käsittelyn
+* Voi lisätä joustavasti lisää tehtäviä, niiden tullessa vastaan
+* Helpottavat tehtävien priorisointia
+* Helpottaa edistymisen tarkastelemista
+* Mahdollistaa laajojen ja abstraktien toimien pilkkomisen ymmärrettäviin ja pieniin osiin
 
 ## Kokoukset
 Järjestämme kokoukset vähintään kerran viikossa luentojen yhteydessä.
