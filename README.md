@@ -12,7 +12,7 @@ Tässä on muutamia työjonojen mahdollistavia piirteitä:
 * Mahdollistaa laajojen ja abstraktien toimien pilkkomisen ymmärrettäviin ja pieniin osiin
 
 ## Kokoukset
-Järjestämme kokoukset vähintään kerran viikossa luentojen yhteydessä.
+Kokoukset ovat tärkeä sekä olennainen osa Scrum työskentelyä. Kokoukset tarjoavat tiimille mahdollisuuden kommunikoida keskenään, mikä johtaa organisoituun ja hallittuun työhön.
 Kokouksissa katselmoimme edellisen sprintin tulokset sekä mahdolliset ilmenneet ongelmat (retrospektiivi) ja suunnittelemme seuraavan sprintin aikana toteutettavat tehtävät. Suunnittelupalaverissa luomme sprintin kehitysjonon.
 Tarkistamme kehitysjonon järjestystä ja sisältöä jokaisen sprintin yhteydessä. Tavoitteena on jatkuva prosessien ja tiimin työskentelyn parantaminen. 
 
